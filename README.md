@@ -6,6 +6,9 @@ A new Flutter project.
 [▶️ Watch the demo](Videos/demo.mp4)
 
 ## Getting Started
+## 🎥 Demo Video
+
+<video src="Videos/demo.mp4" controls="controls" width="600"></video>
 
 This project is a starting point for a Flutter application.
 
