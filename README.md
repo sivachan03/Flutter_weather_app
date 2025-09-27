@@ -1,6 +1,9 @@
 # wheather_app
 
 A new Flutter project.
+## 🎥 Demo Video
+
+[▶️ Watch the demo](Videos/demo.mp4)
 
 ## Getting Started
 
